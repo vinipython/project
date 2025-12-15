@@ -6,3 +6,5 @@ While freshwater is sourced from glaciers, saltwater is present in oceans and se
 
 
 There are 7 oceans in the world.
+
+<img src="./images/water.png" alt="Water" width="300" />
